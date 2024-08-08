@@ -59,7 +59,7 @@
             android:id="@+id/create_new_sketch_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/add"
+            android:src="@drawable/add_circle"
             app:backgroundTint="#3863D8"
             app:tint="@color/white" />
 
