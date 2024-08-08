@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545078495466",
+    "project_id": "sketchflow-389ed",
+    "storage_bucket": "sketchflow-389ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545078495466:android:40e291c4557a0645782f93",
+        "android_client_info": {
+          "package_name": "com.chessytrooper.sketchflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKFETg4acJbi75lYx-HyVEjuNPoVdtrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
